@@ -68,16 +68,16 @@
         }
     ],
     "storeInfo": {
-        "title": "Universal-DB",
-        "author": "Universal-Team",
-        "description": "Universal-DB - An online database of 3DS and DS homebrew",
-        "url": "https://db.universal-team.net/unistore/universal-db-beta.unistore",
+        "title": "dl newer",
+        "author": "ak",
+        "description": "newer",
+        "url": "https://raw.githubusercontent.com/aKiLeS-Dh/UniStore/main/UniStore.json",
         "file": "universal-db-beta.unistore",
         "sheetURL": "https://db.universal-team.net/unistore/universal-db.t3x",
         "sheet": "universal-db.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 91,
+        "revision": 92,
         "version": 3
     }
 } 
