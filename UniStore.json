@@ -13,27 +13,71 @@
                 "license": "gpl-3.0",
                 "version": "v1.16"
             },
-            "Download Newer3ds (? MiB)": [
+            "Download Newer3ds (2 MiB)": [
                 {
                     "file": "https://www.dropbox.com/s/d5s6sciotuzc7dv/Newer%20Super%20Mario%20Bros.%20DS.nds?dl=1",
                     "message": "Descargando Newer",
                     "output": "sdmc:/Juegos/Newer Super Mario Bros. DS.nds",
                     "type": "downloadFile"
                 }
+            ],
+            "Download Universal-Updater.cia (1 MiB)": [
+                {
+                    "file": "https://github.com/Universal-Team/Universal-Updater/releases/download/v2.5.1/Universal-Updater.cia",
+                    "message": "Downloading Universal-Updater.cia...",
+                    "output": "sdmc:/Universal-Updater.cia",
+                    "type": "downloadFile"
+                },
+                {
+                    "file": "/Universal-Updater.cia",
+                    "message": "Installing Universal-Updater.cia...",
+                    "type": "installCia"
+                },
+                {
+                    "file": "sdmc:/Universal-Updater.cia",
+                    "message": "Deleting Universal-Updater.cia.",
+                    "type": "deleteFile"
+                }
+            ],
+            "[nightly] Download Universal-Updater.3dsx": [
+                {
+                    "file": "https://github.com/Universal-Team/extras/raw/master/builds/Universal-Updater/Universal-Updater.3dsx",
+                    "message": "Downloading Universal-Updater.3dsx...",
+                    "output": "%3DSX%/Universal-Updater.3dsx",
+                    "type": "downloadFile"
+                }
+            ],
+            "[nightly] Download Universal-Updater.cia": [
+                {
+                    "file": "https://github.com/Universal-Team/extras/raw/master/builds/Universal-Updater/Universal-Updater.cia",
+                    "message": "Downloading Universal-Updater.cia...",
+                    "output": "sdmc:/Universal-Updater.cia",
+                    "type": "downloadFile"
+                },
+                {
+                    "file": "/Universal-Updater.cia",
+                    "message": "Installing Universal-Updater.cia...",
+                    "type": "installCia"
+                },
+                {
+                    "file": "sdmc:/Universal-Updater.cia",
+                    "message": "Deleting Universal-Updater.cia.",
+                    "type": "deleteFile"
+                }
             ]
         }
     ],
     "storeInfo": {
-        "title": "Newer",
-        "author": "aKiLeS_Dh",
-        "description": "UniStore for downloading Newer",
-        "url": "https://github.com/aKiLeS-Dh/UniStore/blob/main/UniStore.json",
-        "file": "UniStore.json",
+        "title": "Universal-DB",
+        "author": "Universal-Team",
+        "description": "Universal-DB - An online database of 3DS and DS homebrew",
+        "url": "https://db.universal-team.net/unistore/universal-db-beta.unistore",
+        "file": "universal-db-beta.unistore",
         "sheetURL": "https://db.universal-team.net/unistore/universal-db.t3x",
         "sheet": "universal-db.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 1,
+        "revision": 91,
         "version": 3
     }
-}
+} 
