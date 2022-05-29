@@ -11,7 +11,7 @@
                 "sheet_index": 0,
                 "last_updated": "2020-07-02 at 14:03 (UTC)",
                 "license": "gpl-3.0",
-                "version": "v1.16"
+                "version": "v1.17"
             },
             "Download Newer3ds (2 MiB)": [
                 {
@@ -144,7 +144,7 @@
         "sheet": "universal-db.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 93,
+        "revision": 94,
         "version": 3
     }
 } 
