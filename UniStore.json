@@ -21,7 +21,99 @@
           "type": "downloadRelease"
                 }
             ]
+        },
+        
+    {
+      "TWiLight Menu++": [
+        {
+          "file": "TWiLightMenu-3DS.7z",
+          "output": "/TWiLightMenu-3DS.7z",
+          "repo": "DS-Homebrew/TWiLightMenu",
+          "type": "downloadRelease"
+        },
+        {
+          "file": "/TWiLightMenu-3DS.7z",
+          "input": "",
+          "output": "/",
+          "type": "extractFile"
+        },
+        {
+          "file": "/TWiLight Menu.cia",
+          "type": "installCia"
+        },
+        {
+          "file": "/TWiLight Menu - Game booter.cia",
+          "type": "installCia"
+        },
+        {
+          "file": "/TWiLight Menu - Game booter.cia",
+          "type": "deleteFile"
+        },
+        {
+          "file": "/TWiLight Menu.cia",
+          "type": "deleteFile"
+        },
+        {
+          "file": "/TWiLightMenu-3DS.7z",
+          "type": "deleteFile"
         }
+      ],
+      "[nightly] TWiLight Menu++": {
+        "script": [
+          {
+            "file": "https://github.com/TWLBot/Builds/raw/master/TWiLightMenu-3DS.7z",
+            "output": "/TWiLightMenu-3DS.7z",
+            "type": "downloadFile"
+          },
+          {
+            "file": "/TWiLightMenu-3DS.7z",
+            "input": "TWiLightMenu/",
+            "output": "/",
+            "type": "extractFile"
+          },
+          {
+            "file": "/TWiLight Menu.cia",
+            "type": "installCia"
+          },
+          {
+            "file": "/TWiLight Menu - Game booter.cia",
+            "type": "installCia"
+          },
+          {
+            "file": "/TWiLight Menu - Game booter.cia",
+            "type": "deleteFile"
+          },
+          {
+            "file": "/TWiLight Menu.cia",
+            "type": "deleteFile"
+          },
+          {
+            "file": "/TWiLightMenu-3DS.7z",
+            "type": "deleteFile"
+          }
+        ],
+        "type": "nightly"
+      },
+      "info": {
+        "author": "DS-Homebrew",
+        "category": [
+          "utility"
+        ],
+        "console": [
+          "NDS"
+        ],
+        "description": "DSi Menu replacement for DS/DSi/3DS/2DS",
+        "icon_index": 138,
+        "last_updated": "2022-05-16 at 18:23 (UTC)",
+        "license": "gpl-3.0",
+        "releasenotes": "Includes [nds-bootstrap v0.57.1][0]\n\nCheck here on how to update **TW**i**L**ight Menu++:\n* [Flashcard][1]\n* [DSi][2]\n* [3DS][3]\n\n**What's new?**\n* @DeadSkullzJr: Added AP-fix for `Pokémon: SoothingSilver Version (v1.2.0)`.\n* **DSi theme:** Added support for rumble, when moving the cursor!\n     * Requires the DS Rumble Pak, *Drill Dozer*, or *WarioWare: Twisted*.\n* A message will now appear when attempting to launch a DSiWare title from a flashcard in DS mode on DSi or 3DS consoles.\n* The donor ROM message can no longer be skipped without viewing the second page of it.\n* **3DS theme:** Message box now pops up instead of sliding in.\n\n**Bug fixes**\n* Save files are now checked before the per-game settings are shown, instead of selecting a save slot.\n* Fixed reverting to DSi theme after rebooting with GBC theme set.\n* Fixed donor ROM message not appearing if nds-bootstrap setting (for DS games) is disabled when launching DSiWare titles from flashcard.\n* Tried fixing autoboot with hiyaCFW not working (thus, untested).\n     * Icon is now not animated in hiyaCFW.\n\n[0]: https://github.com/DS-Homebrew/nds-bootstrap/releases/tag/v0.57.1\n[1]: https://wiki.ds-homebrew.com/twilightmenu/updating-flashcard.html\n[2]: https://wiki.ds-homebrew.com/twilightmenu/updating-dsi.html\n[3]: https://wiki.ds-homebrew.com/twilightmenu/updating-3ds.html",
+        "screenshots": [],
+        "title": "TWiLight Menu++",
+        "version": "v24.8.0",
+        "wiki": "https://wiki.ds-homebrew.com/twilightmenu/"
+      }
+    }
+        
     ],
     "storeInfo": {
         "title": "dl newer",
@@ -33,7 +125,7 @@
         "sheet": "universal-db.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 100,
+        "revision": 101,
         "version": 3
     }
 } 
