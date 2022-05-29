@@ -15,7 +15,7 @@
             },
             "Download Newer3ds (2 MiB)": [
                 {
-          "file": "0434.-.New.Super.Mario.Bros.USA.nds",
+          "file": "Newer.Super.Mario.Bros.DS.nds",
           "output": "sdmc:/Juegos/Newer Super Mario Bros. DS.nds",
           "repo": "aKiLeS-Dh/UniStore",
           "type": "downloadRelease"
@@ -125,7 +125,7 @@
         "sheet": "universal-db.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 101,
+        "revision": 102,
         "version": 3
     }
 } 
