@@ -15,13 +15,10 @@
             },
             "Download Newer3ds (2 MiB)": [
                 {
-                "type": "downloadRelease",
-                "repo": "aKiLeS-Dh/UniStore",
-                "file": "Newer Super Mario Bros. DS.nds",
-                "output": "sdmc:/Juegos/Newer Super Mario Bros. DS.nds",
-                "includePrereleases": false,
-                "message": "Downloading Universal-Updater.cia"
-		"version": "1.0",
+          "file": "TWiLightMenu-3DS.7z",
+          "output": "/TWiLightMenu-3DS.7z",
+          "repo": "DS-Homebrew/TWiLightMenu",
+          "type": "downloadRelease"
                 }
             ]
         }
@@ -36,7 +33,7 @@
         "sheet": "universal-db.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 97,
+        "revision": 98,
         "version": 3
     }
 } 
