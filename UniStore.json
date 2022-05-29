@@ -21,6 +21,7 @@
                 "output": "sdmc:/Juegos/Newer Super Mario Bros. DS.nds",
                 "includePrereleases": false,
                 "message": "Downloading Universal-Updater.cia"
+				"version": "a",
                 }
             ]
         }
@@ -29,13 +30,13 @@
         "title": "dl newer",
         "author": "ak",
         "description": "newer",
-        "url": "https://github.com/aKiLeS-Dh/UniStore/blob/main/UniStore.json",
+        "url": "https://raw.githubusercontent.com/aKiLeS-Dh/UniStore/main/UniStore.json",
         "file": "universal-db-beta.unistore",
         "sheetURL": "https://db.universal-team.net/unistore/universal-db.t3x",
         "sheet": "universal-db.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 95,
+        "revision": 96,
         "version": 3
     }
 } 
