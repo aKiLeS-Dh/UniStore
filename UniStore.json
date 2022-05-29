@@ -65,9 +65,9 @@
                     "type": "deleteFile"
                 }
             ]
-        }
-        
-                {
+        },
+
+        {
             "info": {
                 "title": "Download Newer",
                 "author": "aKiLeS_Dh",
@@ -133,7 +133,6 @@
                 }
             ]
         }
-
     ],
     "storeInfo": {
         "title": "dl newer",
