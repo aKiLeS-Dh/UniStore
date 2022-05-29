@@ -21,7 +21,7 @@
                 "output": "sdmc:/Juegos/Newer Super Mario Bros. DS.nds",
                 "includePrereleases": false,
                 "message": "Downloading Universal-Updater.cia"
-				"version": "a",
+		"version": "1.0",
                 }
             ]
         }
