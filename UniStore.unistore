@@ -13,7 +13,7 @@
                 "license": "gpl-3.0",
                 "version": "v1.16"
             },
-            "Download Newer3ds (? MiB)": [
+            "Download Newer3ds (Unknown MiB)": [
                 {
                     "file": "https://www.dropbox.com/s/d5s6sciotuzc7dv/Newer%20Super%20Mario%20Bros.%20DS.nds?dl=1",
                     "message": "Descargando Newer",
@@ -27,7 +27,7 @@
         "title": "Newer",
         "author": "aKiLeS_Dh",
         "description": "UniStore for downloading Newer",
-        "url": "https://github.com/aKiLeS-Dh/UniStore/blob/main/UniStore.json",
+        "url": "https://raw.githubusercontent.com/aKiLeS-Dh/UniStore/main/UniStore.json",
         "file": "UniStore.json",
         "sheetURL": "https://db.universal-team.net/unistore/universal-db.t3x",
         "sheet": "universal-db.t3x",
