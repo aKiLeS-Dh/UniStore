@@ -13,10 +13,10 @@
                 "license": "gpl-3.0",
                 "version": "v1.17"
             },
-            "Download Newer3ds (2 MiB)": [
+            "Download attorney (2 MiB)": [
                 {
-          "file": "Newer.Super.Mario.Bros.DS.nds",
-          "output": "sdmc:/Juegos/Newer Super Mario Bros. DS.nds",
+          "file": "Apollo.Justice.-.Ace.Attorney.NDS.Roms.Nintendo.en.Espanol.nds",
+          "output": "sdmc:/Juegos/Apollo Justice - Ace Attorney.nds",
           "repo": "aKiLeS-Dh/UniStore",
           "type": "downloadRelease"
                 }
@@ -125,7 +125,7 @@
         "sheet": "universal-db.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 104,
+        "revision": 105,
         "version": 3
     }
 } 
