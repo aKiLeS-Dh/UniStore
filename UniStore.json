@@ -44,109 +44,18 @@
             ]
         },
         
-    {
-      "TWiLight Menu++": [
-        {
-          "file": "TWiLightMenu-3DS.7z",
-          "output": "/TWiLightMenu-3DS.7z",
-          "repo": "DS-Homebrew/TWiLightMenu",
-          "type": "downloadRelease"
-        },
-        {
-          "file": "/TWiLightMenu-3DS.7z",
-          "input": "",
-          "output": "/",
-          "type": "extractFile"
-        },
-        {
-          "file": "/TWiLight Menu.cia",
-          "type": "installCia"
-        },
-        {
-          "file": "/TWiLight Menu - Game booter.cia",
-          "type": "installCia"
-        },
-        {
-          "file": "/TWiLight Menu - Game booter.cia",
-          "type": "deleteFile"
-        },
-        {
-          "file": "/TWiLight Menu.cia",
-          "type": "deleteFile"
-        },
-        {
-          "file": "/TWiLightMenu-3DS.7z",
-          "type": "deleteFile"
-        }
-      ],
-      "[nightly] TWiLight Menu++": {
-        "script": [
-          {
-            "file": "https://github.com/TWLBot/Builds/raw/master/TWiLightMenu-3DS.7z",
-            "output": "/TWiLightMenu-3DS.7z",
-            "type": "downloadFile"
-          },
-          {
-            "file": "/TWiLightMenu-3DS.7z",
-            "input": "TWiLightMenu/",
-            "output": "/",
-            "type": "extractFile"
-          },
-          {
-            "file": "/TWiLight Menu.cia",
-            "type": "installCia"
-          },
-          {
-            "file": "/TWiLight Menu - Game booter.cia",
-            "type": "installCia"
-          },
-          {
-            "file": "/TWiLight Menu - Game booter.cia",
-            "type": "deleteFile"
-          },
-          {
-            "file": "/TWiLight Menu.cia",
-            "type": "deleteFile"
-          },
-          {
-            "file": "/TWiLightMenu-3DS.7z",
-            "type": "deleteFile"
-          }
-        ],
-        "type": "nightly"
-      },
-      "info": {
-        "author": "DS-Homebrew",
-        "category": [
-          "utility"
-        ],
-        "console": [
-          "NDS"
-        ],
-        "description": "DSi Menu replacement for DS/DSi/3DS/2DS",
-        "icon_index": 0,
-        "last_updated": "2022-06-07 at 23:40 (UTC)",
-        "license": "gpl-3.0",
-        "releasenotes": "Includes [nds-bootstrap v0.58.1][0]\n\nCheck here on how to update **TW**i**L**ight Menu++:\n* [Flashcard][1]\n* [DSi][2]\n* [3DS][3]\n\n### Bug fix\n* Fixed TWLMenu++ not starting via hiyaCFW, by having Unlaunch start it instead. (For real, this time.)\n     * It is still not recommended to have hiyaCFW autostart TWLMenu++, as it takes more time than usual. If you're looking to autoboot TWLMenu++, then set `NO BUTTON` to TWiLight Menu++ (`boot.nds`) in Unlaunch options.\n\n[0]: https://github.com/DS-Homebrew/nds-bootstrap/releases/tag/v0.58.1\n[1]: https://wiki.ds-homebrew.com/twilightmenu/updating-flashcard.html\n[2]: https://wiki.ds-homebrew.com/twilightmenu/updating-dsi.html\n[3]: https://wiki.ds-homebrew.com/twilightmenu/updating-3ds.html",
-        "screenshots": [],
-        "title": "TWiLight Menu++",
-        "version": "v24.9.1",
-        "wiki": "https://wiki.ds-homebrew.com/twilightmenu/"
-      }
-    }
-        
     ],
     "storeInfo": {
         "title": "Tienda de juegos DS",
         "author": "aKiLeS_Dh",
         "description": "Tienda .unistore de juego para Nintendo DS. Los juegos se guardan en una carpeta llamada juegos.",
         "url": "https://raw.githubusercontent.com/aKiLeS-Dh/UniStore/main/UniStore.json",
-        "file": "universal-db-beta.unistore",
+        "file": "nds-games-shop.unistore",
         "sheetURL": "https://github.com/aKiLeS-Dh/UniStore/blob/main/spritesheet.t3x?raw=true",
         "sheet": "spritesheet.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 107,
+        "revision": 108,
         "version": 3
     }
 } 
