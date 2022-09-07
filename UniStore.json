@@ -26,7 +26,7 @@
             "info": {
                 "title": "Apollo Justice - Ace Attorney",
                 "author": "aKiLeS_Dh",
-                "description": "Versión Espaniola.",
+                "description": "Versión Española.",
                 "category": ["utility"],
                 "console": ["NDS"],
                 "icon_index": 1,
@@ -54,7 +54,7 @@
         "sheet": "spritesheet.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 112,
+        "revision": 113,
         "version": 3
     }
 } 
