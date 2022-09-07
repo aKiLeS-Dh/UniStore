@@ -49,7 +49,7 @@
         "author": "aKiLeS_Dh",
         "description": "Tienda .unistore de juego para Nintendo DS. Los juegos se guardan en una carpeta llamada juegos.",
         "url": "https://raw.githubusercontent.com/aKiLeS-Dh/UniStore/main/UniStore.json",
-        "file": "UniStore.json",
+        "file": "Tienda Nintendo DS.unistore",
         "sheetURL": "https://github.com/aKiLeS-Dh/UniStore/blob/main/spritesheet.t3x?raw=true",
         "sheet": "spritesheet.t3x",
         "bg_index": 1,
