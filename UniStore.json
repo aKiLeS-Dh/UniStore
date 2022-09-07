@@ -40,11 +40,10 @@
           "output": "sdmc:/Juegos/Apollo Justice - Ace Attorney.nds",
           "repo": "aKiLeS-Dh/UniStore",
           "type": "downloadRelease"
-                }
-            ]
-        }
-        
-    ],
+            }
+         ]
+      }
+   ],
     "storeInfo": {
         "title": "Tienda de juegos DS",
         "author": "aKiLeS_Dh",
@@ -55,7 +54,7 @@
         "sheet": "spritesheet.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 108,
+        "revision": 109,
         "version": 3
     }
 } 
