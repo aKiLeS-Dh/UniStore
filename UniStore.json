@@ -142,11 +142,11 @@
         "description": "Tienda .unistore de juego para Nintendo DS. Los juegos se guardan en una carpeta llamada juegos.",
         "url": "https://raw.githubusercontent.com/aKiLeS-Dh/UniStore/main/UniStore.json",
         "file": "universal-db-beta.unistore",
-        "sheetURL": "https://raw.githubusercontent.com/aKiLeS-Dh/UniStore/main/spritesheet.t3x",
+        "sheetURL": "https://github.com/aKiLeS-Dh/UniStore/blob/main/spritesheet.t3x?raw=true",
         "sheet": "spritesheet.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 106,
+        "revision": 107,
         "version": 3
     }
 } 
