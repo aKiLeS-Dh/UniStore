@@ -2,18 +2,39 @@
     "storeContent": [
         {
             "info": {
-                "title": "Download Newer",
+                "title": "Newer Super Mario Bros. DS",
                 "author": "aKiLeS_Dh",
-                "description": "An app for installer Newer. DS",
+                "description": "Hack Rom de Newer Super Mario Bros. DS",
                 "category": ["utility"],
                 "console": ["NDS"],
                 "icon_index": 0,
-                "sheet_index": 0,
+                "last_updated": "2021-07-02 at 14:03 (UTC)",
+                "license": "gpl-3.0",
+                "version": "v1.16"
+            },
+            "Download Newer DS (? MiB)": [
+                {
+          "file": "Newer.Super.Mario.Bros.DS.nds",
+          "output": "sdmc:/Juegos/Newer Super Mario Bros. DS",
+          "repo": "aKiLeS-Dh/UniStore",
+          "type": "downloadRelease"
+                }
+            ]
+        },
+            
+        {
+            "info": {
+                "title": "Apollo Justice - Ace Attorney",
+                "author": "aKiLeS_Dh",
+                "description": "Versión Española.",
+                "category": ["utility"],
+                "console": ["NDS"],
+                "icon_index": 1,
                 "last_updated": "2020-07-02 at 14:03 (UTC)",
                 "license": "gpl-3.0",
-                "version": "v1.17"
+                "version": "1.0"
             },
-            "Download attorney (2 MiB)": [
+            "Download Apollo Justice (? MiB)": [
                 {
           "file": "Apollo.Justice.-.Ace.Attorney.NDS.Roms.Nintendo.en.Espanol.nds",
           "output": "sdmc:/Juegos/Apollo Justice - Ace Attorney.nds",
@@ -103,7 +124,7 @@
           "NDS"
         ],
         "description": "DSi Menu replacement for DS/DSi/3DS/2DS",
-        "icon_index": 138,
+        "icon_index": 0,
         "last_updated": "2022-06-07 at 23:40 (UTC)",
         "license": "gpl-3.0",
         "releasenotes": "Includes [nds-bootstrap v0.58.1][0]\n\nCheck here on how to update **TW**i**L**ight Menu++:\n* [Flashcard][1]\n* [DSi][2]\n* [3DS][3]\n\n### Bug fix\n* Fixed TWLMenu++ not starting via hiyaCFW, by having Unlaunch start it instead. (For real, this time.)\n     * It is still not recommended to have hiyaCFW autostart TWLMenu++, as it takes more time than usual. If you're looking to autoboot TWLMenu++, then set `NO BUTTON` to TWiLight Menu++ (`boot.nds`) in Unlaunch options.\n\n[0]: https://github.com/DS-Homebrew/nds-bootstrap/releases/tag/v0.58.1\n[1]: https://wiki.ds-homebrew.com/twilightmenu/updating-flashcard.html\n[2]: https://wiki.ds-homebrew.com/twilightmenu/updating-dsi.html\n[3]: https://wiki.ds-homebrew.com/twilightmenu/updating-3ds.html",
@@ -116,16 +137,16 @@
         
     ],
     "storeInfo": {
-        "title": "dl newer",
-        "author": "ak",
-        "description": "newer",
+        "title": "Tienda de juegos DS",
+        "author": "aKiLeS_Dh",
+        "description": "Tienda .unistore de juego para Nintendo DS. Los juegos se guardan en una carpeta llamada juegos.",
         "url": "https://raw.githubusercontent.com/aKiLeS-Dh/UniStore/main/UniStore.json",
         "file": "universal-db-beta.unistore",
-        "sheetURL": "https://db.universal-team.net/unistore/universal-db.t3x",
-        "sheet": "universal-db.t3x",
+        "sheetURL": "https://raw.githubusercontent.com/aKiLeS-Dh/UniStore/main/spritesheet.t3x",
+        "sheet": "spritesheet.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 105,
+        "revision": 106,
         "version": 3
     }
 } 
