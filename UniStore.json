@@ -45,16 +45,16 @@
       }
    ],
     "storeInfo": {
-        "title": "Tienda de juegos DS",
-        "author": "aKiLeS_Dh",
-        "description": "Tienda .unistore de juego para Nintendo DS. Los juegos se guardan en una carpeta llamada juegos.",
+        "title": "Tienda de juegos de Nintendo DS",
+        "author": "Creado por aKiLeS_Dh",
+        "description": "Tienda .unistore de juegos para Nintendo DS.\nEl directorio donde se guardan los juegos se puede cambiar desde ajustes de directorio.\nLos juegos descargados se deben jugar desde Twilight Menu.",
         "url": "https://raw.githubusercontent.com/aKiLeS-Dh/UniStore/main/UniStore.json",
         "file": "Tienda Nintendo DS.unistore",
         "sheetURL": "https://github.com/aKiLeS-Dh/UniStore/blob/main/spritesheet.t3x?raw=true",
         "sheet": "spritesheet.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 109,
+        "revision": 110,
         "version": 3
     }
 } 
