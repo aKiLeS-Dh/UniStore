@@ -159,13 +159,13 @@
         "title": "AShop",
         "author": "Creado por aKiLeS_Dh",
         "description": "Tienda .unistore de juegos para Nintendo DS.\nEsta es la primera tienda de juegos para Nintendo DS. He decidido llamarla... la AShop.\n\nEl directorio donde se guardan los juegos se puede cambiar desde ajustes de directorio.\n\nLos juegos descargados se deben jugar desde Twilight Menu.",
-        "url": "https://raw.githubusercontent.com/aKiLeS-Dh/UniStore/main/UniStore.json",
+        "url": "https://raw.githubusercontent.com/aKiLeS-Dh/UniStore/main/AShop%20-%20Tienda%20de%20Juegos%20NDS.json",
         "file": "AShop - Tienda de Juegos NDS.unistore",
         "sheetURL": "https://github.com/aKiLeS-Dh/UniStore/blob/main/spritesheet.t3x?raw=true",
         "sheet": "spritesheet.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 119,
+        "revision": 120,
         "version": 3
     }
 } 
