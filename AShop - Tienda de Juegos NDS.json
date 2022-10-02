@@ -152,7 +152,46 @@
           "type": "downloadRelease"
                 }
             ]
+        },
+        
+        {
+            "info": {
+                "title": "Phoenix Wright: Ace Attorney, Justice for All, Trials and Tribulations",
+                "author": "aKiLeS_Dh",
+                "description": "Aún no hay descripción",
+                "category": ["utility"],
+                "console": ["NDS"],
+                "icon_index": 7,
+                "last_updated": "2021-07-02 at 14:03 (UTC)",
+                "license": "gpl-3.0",
+                "version": "v1.0"
+            },
+            "Download Phoenix Wright: Ace Attorney (? MiB)": [
+                {
+          "file": "Phoenix.Wright.Ace.Attorney.nds",
+          "output": "sdmc:/Juegos/Phoenix Wright - Ace Attorney.nds",
+          "repo": "aKiLeS-Dh/UniStore",
+          "type": "downloadRelease"
+                }
+            ],
+            "Download Phoenix Wright: Ace Attorney: Justice for All (1 MiB)": [
+                {
+           "file": "Phoenix.Wright.Ace.Attorney.Justice.for.All.nds",
+           "output": "sdmc:/Juegos/Phoenix Wright - Ace Attorney - Justice for All.nds",
+           "message": "Test message",
+           "type": "downloadRelease"
+                }
+            ],
+            "Download Phoenix Wright: Ace Attorney: Trials and Tribulations (1 MiB)": [
+                {
+           "file": "Phoenix.Wright.Ace.Attorney.Trialsn.and.Tribulations.nds",
+           "output": "sdmc:/Juegos/Phoenix Wright - Ace Attorney - Trials and Tribulations.nds",
+           "message": "descargando ace",
+           "type": "downloadRelease"
+                }
+            ]
         }
+        
 ],
     "storeInfo": {
         "title": "AShop",
@@ -164,7 +203,7 @@
         "sheet": "spritesheet.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 124,
+        "revision": 125,
         "version": 3
     }
 } 
