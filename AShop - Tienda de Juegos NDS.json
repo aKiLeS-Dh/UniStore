@@ -191,7 +191,7 @@
            "message": "descargando ace",
            "type": "downloadRelease"
                 }
-            ]
+            ],
             "size": "460 KiB"
         }
         
@@ -206,7 +206,7 @@
         "sheet": "spritesheet.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 127,
+        "revision": 128,
         "version": 3
     }
 } 
