@@ -179,6 +179,7 @@
            "file": "Phoenix.Wright.Ace.Attorney.Justice.for.All.nds",
            "output": "sdmc:/Juegos/Phoenix Wright - Ace Attorney - Justice for All.nds",
            "message": "Test message",
+           "repo": "aKiLeS-Dh/UniStore",
            "type": "downloadRelease"
                 }
             ],
@@ -186,6 +187,7 @@
                 {
            "file": "Phoenix.Wright.Ace.Attorney.Trialsn.and.Tribulations.nds",
            "output": "sdmc:/Juegos/Phoenix Wright - Ace Attorney - Trials and Tribulations.nds",
+           "repo": "aKiLeS-Dh/UniStore",
            "message": "descargando ace",
            "type": "downloadRelease"
                 }
@@ -203,7 +205,7 @@
         "sheet": "spritesheet.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 125,
+        "revision": 126,
         "version": 3
     }
 } 
