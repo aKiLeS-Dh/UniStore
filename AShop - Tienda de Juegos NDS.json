@@ -156,7 +156,7 @@
         
         {
             "info": {
-                "title": "Phoenix Wright: Ace Attorney, Justice for All, Trials and Tribulations",
+                "title": "Phoenix Wright: Ace Attorney, JFA, T&T",
                 "author": "aKiLeS_Dh",
                 "description": "Aún no hay descripción",
                 "category": ["utility"],
@@ -166,7 +166,7 @@
                 "license": "gpl-3.0",
                 "version": "v1.0"
             },
-            "Download Phoenix Wright: Ace Attorney (? MiB)": [
+            "Descargar Phoenix Wright: Ace Attorney (62.1 MB)": [
                 {
           "file": "Phoenix.Wright.Ace.Attorney.nds",
           "output": "sdmc:/Juegos/Phoenix Wright - Ace Attorney.nds",
@@ -174,25 +174,22 @@
           "type": "downloadRelease"
                 }
             ],
-            "Download Phoenix Wright: Ace Attorney: Justice for All (1 MiB)": [
+            "Descargar Phoenix Wright: Ace Attorney: JFA (24.4 MB)": [
                 {
            "file": "Phoenix.Wright.Ace.Attorney.Justice.for.All.nds",
            "output": "sdmc:/Juegos/Phoenix Wright - Ace Attorney - Justice for All.nds",
-           "message": "Test message",
            "repo": "aKiLeS-Dh/UniStore",
            "type": "downloadRelease"
                 }
             ],
-            "Download Phoenix Wright: Ace Attorney: Trials and Tribulations (1 MiB)": [
+            "Descargar Phoenix Wright: Ace Attorney: T&T (26.1 MB)": [
                 {
-           "file": "Phoenix.Wright.Ace.Attorney.Trialsn.and.Tribulations.nds",
+           "file": "Phoenix.Wright.Ace.Attorney.Trials.and.Tribulations.nds",
            "output": "sdmc:/Juegos/Phoenix Wright - Ace Attorney - Trials and Tribulations.nds",
            "repo": "aKiLeS-Dh/UniStore",
-           "message": "descargando ace",
            "type": "downloadRelease"
                 }
-            ],
-            "size": "460 KiB"
+            ]
         }
         
 ],
