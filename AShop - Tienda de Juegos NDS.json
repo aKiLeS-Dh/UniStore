@@ -185,6 +185,7 @@
             "Descargar Phoenix Wright: Ace Attorney: T&T (26.1 MB)": [
                 {
            "file": "Phoenix.Wright.Ace.Attorney.Trials.and.Tribulations.nds",
+           "message": "Test Message :D!",
            "output": "sdmc:/Juegos/Phoenix Wright - Ace Attorney - Trials and Tribulations.nds",
            "repo": "aKiLeS-Dh/UniStore",
            "type": "downloadRelease"
@@ -203,7 +204,7 @@
         "sheet": "spritesheet.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 128,
+        "revision": 129,
         "version": 3
     }
 } 
