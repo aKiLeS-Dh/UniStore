@@ -210,6 +210,13 @@
           "output": "%NDS%/Mario & Luigi - Compañeros en el tiempo.nds",
           "repo": "aKiLeS-Dh/UniStore",
           "type": "downloadRelease"
+                },
+
+                {
+          "file": "Mario.Luigi.Companeros.en.el.tiempo.nds.png",
+          "output": "sdmc:/_nds/TWiLightMenu/boxart/Mario.Luigi.Companeros.en.el.tiempo.nds.png",
+          "repo": "aKiLeS-Dh/UniStore",
+          "type": "downloadRelease"
                 }
             ]
         }
@@ -225,7 +232,7 @@
         "sheet": "spritesheet.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 132,
+        "revision": 133,
         "version": 3
     }
 } 
