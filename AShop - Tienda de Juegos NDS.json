@@ -218,14 +218,6 @@
           "repo": "aKiLeS-Dh/UniStore",
           "type": "downloadRelease"
                 }
-            ],
-            "Descargar box art test (000.exe MB)": [
-                {
-           "file": "Mario.Luigi.Companeros.en.el.tiempo.nds.png",
-           "output": "sdmc:/_nds/TWiLightMenu/boxart/Mario & Luigi - Compañeros en el tiempo.nds.png",
-           "repo": "aKiLeS-Dh/UniStore",
-           "type": "downloadRelease"
-                }
             ]
         }
         
@@ -240,7 +232,7 @@
         "sheet": "spritesheet.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 136,
+        "revision": 137,
         "version": 3
     }
 } 
