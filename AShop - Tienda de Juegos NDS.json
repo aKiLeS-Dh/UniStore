@@ -228,7 +228,6 @@
                 }
             ]
         }
-        }
         
 ],
     "storeInfo": {
@@ -241,7 +240,7 @@
         "sheet": "spritesheet.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 135,
+        "revision": 136,
         "version": 3
     }
 } 
