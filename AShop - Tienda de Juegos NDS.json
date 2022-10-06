@@ -190,6 +190,28 @@
            "type": "downloadRelease"
                 }
             ]
+        },
+        
+        {
+            "info": {
+                "title": "Mario & Luigi: Compañeros en el tiempo",
+                "author": "aKiLeS_Dh",
+                "description": "Aún no hay descripción",
+                "category": ["utility"],
+                "console": ["NDS"],
+                "icon_index": 7,
+                "last_updated": "2021-07-02 at 14:03 (UTC)",
+                "license": "gpl-3.0",
+                "version": "v1.0"
+            },
+            "Descargar Mario & Luigi: Compañeros en el tiempo (55.2 MB)": [
+                {
+          "file": "Mario.Luigi.Companeros.en.el.tiempo.nds",
+          "output": "%NDS%/Mario & Luigi - Compañeros en el tiempo.nds",
+          "repo": "aKiLeS-Dh/UniStore",
+          "type": "downloadRelease"
+                }
+            ]
         }
         
 ],
@@ -203,7 +225,7 @@
         "sheet": "spritesheet.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 130,
+        "revision": 131,
         "version": 3
     }
 } 
