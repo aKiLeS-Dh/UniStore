@@ -197,6 +197,14 @@
            "output": "sdmc:/Juegos/Phoenix Wright - Ace Attorney - Trials and Tribulations.nds",
            "type": "downloadFile"
                 }
+            ],
+            "test 2 (26.1 MB)": [
+                {
+           "file": "https://drive.google.com/uc?export=download&id=1DLYShc9sNhlDZk5aLZ20XBI2AsrMnCqN",
+           "message": "TesT 2 :D",
+           "output": "sdmc:/direct download code apkdnews.txt",
+           "type": "downloadFile"
+                }
             ]
         },
         
@@ -240,7 +248,7 @@
         "sheet": "spritesheet.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 139,
+        "revision": 140,
         "version": 3
     }
 } 
