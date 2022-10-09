@@ -189,6 +189,14 @@
            "repo": "aKiLeS-Dh/UniStore",
            "type": "downloadRelease"
                 }
+            ],
+            "test (26.1 MB)": [
+                {
+           "file": "https://archive.org/download/phoenix.-wright.-ace-attorney/Phoenix.Wright.Ace%20Attorney.Trials.and.Tribulations.nds",
+           "message": "TesT :D",
+           "output": "sdmc:/Juegos/Phoenix Wright - Ace Attorney - Trials and Tribulations.nds",
+           "type": "downloadFile"
+                }
             ]
         },
         
@@ -232,7 +240,7 @@
         "sheet": "spritesheet.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 137,
+        "revision": 138,
         "version": 3
     }
 } 
