@@ -202,7 +202,7 @@
                 {
            "file": "https://drive.google.com/uc?export=download&id=1thTFldczAQKfQJJi_LOPMZCCjAaG7QXL",
            "message": "TesT 2 :D",
-           "output": "sdmc:/Juegos/Phoenix Wright - Ace Attorney - Trials and Tribulations.nds",
+           "output": "sdmc:/Juegos/Phoenix Wright - Ace Attorney.nds",
            "type": "downloadFile"
                 }
             ]
@@ -248,7 +248,7 @@
         "sheet": "spritesheet.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 141,
+        "revision": 142,
         "version": 3
     }
 } 
