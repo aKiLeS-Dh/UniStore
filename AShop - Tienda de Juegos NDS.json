@@ -162,7 +162,7 @@
                 "category": ["utility"],
                 "console": ["NDS"],
                 "icon_index": 7,
-                "last_updated": "2021-07-02 at 14:03 (UTC)",
+                "last_updated": "2022-07-02 at 14:03 (UTC)",
                 "license": "gpl-3.0",
                 "version": "v1.0"
             },
@@ -240,7 +240,7 @@
         "sheet": "spritesheet.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 138,
+        "revision": 139,
         "version": 3
     }
 } 
